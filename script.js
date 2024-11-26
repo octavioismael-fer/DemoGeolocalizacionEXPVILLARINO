@@ -11,8 +11,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Puntos de entrada al parque
     const entradas = [
-        { name: 'Entrada Norte', coords: [-33.02439412327588, -60.890023609904205] },
-        { name: 'Entrada Sur', coords: [-33.02646770598425, -60.88656419675499] },
+        { name: 'Entrada Horacio', coords: [-33.02439412327588, -60.890023609904205] },
+        { name: 'Entrada Timoteo', coords: [-33.02823896821544, -60.88505458177282] },
     ];
 
     // Función para calcular distancia en kilómetros
